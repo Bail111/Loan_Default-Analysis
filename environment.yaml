@@ -16,4 +16,4 @@ dependencies:
 - jupyter_server=2.14.2
 - plotly=5.23.0
 - ipywidgets=8.1.5
-prefix: your_environment_path
+prefix: /opt/conda
